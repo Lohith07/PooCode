@@ -1,0 +1,29 @@
+/*login page*/
+.login-section {
+    background: url(../../assets/images/login-bg-img.png) no-repeat center top;
+    background-size: cover;
+}
+
+.login-section .container-fluid {
+    background: #0000009e;
+    min-height: 750px;
+}
+
+.login-section .login-block {
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+    max-width: 560px;
+}
+
+.login-section .login-block h3 {
+    font-family: 'Helvetica 65 Medium', sans-serif;
+    color: #343A40;
+}
+
+.login-section .login-header, .login-section .login-form {
+    font-family: 'Helvetica 45 Light', sans-serif;
+}
+
+.login-section .login-header .h6, .login-section .login-form {
+    color: #212529;
+}
